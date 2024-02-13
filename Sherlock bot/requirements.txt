@@ -1,0 +1,11 @@
+pytelegrambotAPI
+opencv-python
+moviepy
+requests
+subprocess
+pillow
+pyaudio
+webbrowser
+winreg
+shutil
+sys
